@@ -1,0 +1,24 @@
+<!--
+
+hardware
+	component+
+		attribute: type (motherboard | cpu | gpu | ram | harddrive | psu | opticaldrive | cpucooler | soundcard)
+		title (text)
+		shortdescription (text)
+		fulldescription (cdata)
+		price (text)
+		image+
+			url (text)
+		
+
+-->
+
+	<!ELEMENT hardware (component+)>
+		<!ELEMENT component (title, shortdescription, fulldescription, price, image+)>
+			<!ATTLIST component type (motherboard | cpu | gpu | ram | harddrive | psu | opticaldrive | cpucooler | soundcard) #REQUIRED>
+			<!ELEMENT title (#PCDATA)>
+			<!ELEMENT shortdescription (#PCDATA)>
+			<!ELEMENT fulldescription (#PCDATA)>
+			<!ELEMENT price (#PCDATA)>
+			<!ELEMENT image (url)>
+				<!ELEMENT url (#PCDATA)>

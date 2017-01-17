@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+		<url><loc>https://www.fc.lnu.se/~aj223ct/dold/projekt/index.htm</loc></url>
+		
+		<url><loc>https://www.fc.lnu.se/~aj223ct/dold/projekt/build.htm</loc></url>
+		<url><loc>https://www.fc.lnu.se/~aj223ct/dold/projekt/components.htm</loc></url>
+		<url><loc>https://www.fc.lnu.se/~aj223ct/dold/projekt/service.htm</loc></url>
+		<url><loc>https://www.fc.lnu.se/~aj223ct/dold/projekt/about.htm</loc></url>
+		
+		<url><loc>https://www.fc.lnu.se/~aj223ct/dold/projekt/build/config.htm</loc></url>
+		
+		<url><loc>https://www.fc.lnu.se/~aj223ct/dold/projekt/components/hardware.htm</loc></url>
+		<url><loc>https://www.fc.lnu.se/~aj223ct/dold/projekt/components/hardware/item.htm</loc></url>
+		
+		<url><loc>https://www.fc.lnu.se/~aj223ct/dold/projekt/service/repair.htm</loc></url>
+		<url><loc>https://www.fc.lnu.se/~aj223ct/dold/projekt/service/pricelist.htm</loc></url>
+		<url><loc>https://www.fc.lnu.se/~aj223ct/dold/projekt/service/support.htm</loc></url>
+		
+		<url><loc>https://www.fc.lnu.se/~aj223ct/dold/projekt/about/contact.htm</loc></url>
+		<url><loc>https://www.fc.lnu.se/~aj223ct/dold/projekt/about/map.htm</loc></url>
+		<url><loc>https://www.fc.lnu.se/~aj223ct/dold/projekt/about/opentimes.htm</loc></url>
+		
+		<url><loc>https://www.fc.lnu.se/~aj223ct/dold/projekt/sitemap.htm</loc></url>
+	
+	</urlset>

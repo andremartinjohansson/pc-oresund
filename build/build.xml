@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE build SYSTEM "build.dtd">
+
+<build>
+	<chassi>
+		<title>Cooler Master Force 500 - Midi Tower</title>
+		<description><![CDATA[
+		
+		<h4><h4><h4>Moderkort support:</h4>
+                
+                <ul>
+                	<li>ATX, MICRO-ATX</li>
+                </ul>
+                
+		<h4>Kylning:</h4>
+                
+                <ul>
+                	<li>Fram: 1x140mm, 2x120mm</li>
+                    <li>Bak: 1x120mm (installerad)</li>
+                    <li>Sida Vänster: 1x120mm/140mm</li>
+                    <li>Sida Höger: 2x120mm</li>
+                </ul>
+                
+		<h4>Vattenkylning - kompatibilitet:</h4>
+                
+                <ul>
+                	<li>Sida Höger: 1x120/240mm</li>
+                    <li>Bak: 1x120mm</li>
+                </ul>
+                
+		<h4>Max kompatibilitet:</h4>
+                
+                <ul>
+                	<li>Grafikkort längd: 320mm (med HDD bur)</li>
+					<li>CPU-Kylare höjd: 163.9mm</li>
+                </ul>
+		
+		]]></description>
+		<price>450</price>
+		<imageurl>
+			<black>imgs/CM_Force_500_Mid.jpg</black>
+			<white>none</white>
+		</imageurl>
+	</chassi>
+	<chassi>
+		<title>Cooler Master HAF 912 - Midi Tower</title>
+		<description><![CDATA[
+		
+		<h4><h4>Moderkort support:</h4>
+                
+                <ul>
+                	<li>ATX, MICRO-ATX</li>
+                </ul>
+                
+		<h4>Kylning:</h4>
+                
+                <ul>
+                	<li>Fram: 1x200mm LED (installerad), 2x120mm</li>
+                    <li>Topp: 1x200mm (installerad), 2x120mm</li>
+                    <li>Bak: 1x120mm (installerad)</li>
+                    <li>Sida: 1x120/140mm</li>
+                </ul>
+                
+		<h4>Vattenkylning - kompatibilitet:</h4>
+                
+                <ul>
+                	<li>Topp: 2x120mm, 1x140/240mm</li>
+                    <li>Bak: 1x120mm</li>
+                </ul>
+                
+		<h4>Max kompatibilitet:</h4>
+                
+                <ul>
+                	<li>Grafikkort längd: 270mm (med HDD bur)</li>
+					<li>Grafikkort längd: 360mm (utan första HDD buren)</li>
+					<li>CPU-Kylare höjd: 175mm</li>
+                </ul>
+		
+		]]></description>
+		<price>700</price>
+		<imageurl>
+			<black>imgs/CM_HAF_912_Mid.jpg</black>
+			<white>none</white>
+		</imageurl>
+	</chassi>
+	<chassi>
+		<title>Cooler Master Storm Scout II - Midi Tower</title>
+		<description><![CDATA[
+		
+		<h4><h4>Moderkort support:</h4>
+                
+                <ul>
+                	<li>ATX, MICRO-ATX</li>
+                </ul>
+                
+		<h4>Kylning:</h4>
+                
+                <ul>
+					<li>Topp: 2x120mm</li>
+                	<li>Fram: 2x120mm LED (installerad)</li>
+                    <li>Bak: 1x120mm (installerad)</li>
+					<li>Under: 1x120mm</li>
+                    <li>Sida: 2x120mm</li>
+					<li>HDD bur: 1x120mm</li>
+                </ul>
+                
+		<h4>Vattenkylning - kompatibilitet:</h4>
+                
+                <ul>
+                    <li>Bak: 1x120mm</li>
+                </ul>
+                
+		<h4>Max kompatibilitet:</h4>
+                
+                <ul>
+                	<li>Grafikkort längd: 287mm (med HDD bur)</li>
+					<li>Grafikkort längd: 399mm (utan HDD bur)</li>
+					<li>CPU-Kylare höjd: 162mm</li>
+                </ul>
+		
+		]]></description>
+		<price>900</price>
+		<imageurl>
+			<black>imgs/CM_Storm_Scout_Black_Mid.jpg</black>
+			<white>imgs/CM_Storm_Scout_White_Mid.jpg</white>
+		</imageurl>
+	</chassi>
+	<chassi>
+		<title>Cooler Master Storm Trooper - Full Tower</title>
+		<description><![CDATA[
+		
+		<h4><h4>Moderkort support:</h4>
+                
+                <ul>
+                	<li>E-ATX, XL-ATX, ATX, MICRO-ATX, MINI-ITX</li>
+                </ul>
+                
+		<h4>Kylning:</h4>
+                
+                <ul>
+					<li>Fram: 2x120mm LED (installerad)</li>
+					<li>Topp: 1x200mm (installerad)</li>
+                    <li>Bak: 1x140mm (installerad)</li>
+					<li>Sida: 2x120mm</li>
+					<li>Under: 2x120mm</li>
+                </ul>
+                
+		<h4>Vattenkylning - kompatibilitet:</h4>
+                
+                <ul>
+					<li>Fram: custom</li>
+					<li>Topp: 1x240mm</li>
+					<li>Bak: 1x120/140mm</li>
+                    <li>Under: 240mm</li>
+                </ul>
+                
+		<h4>Max kompatibilitet:</h4>
+                
+                <ul>
+                	<li>Grafikkort längd: 322mm</li>
+					<li>CPU-Kylare höjd: 186mm</li>
+                </ul>
+		
+		]]></description>
+		<price>1200</price>
+		<imageurl>
+			<black>imgs/CM_Storm_Trooper_Black_Big.jpg</black>
+			<white>imgs/CM_Storm_Trooper_White_Big.jpg</white>
+		</imageurl>
+	</chassi>
+	<chassi>
+		<title>Fractal Design Define R5 - Midi Tower</title>
+		<description><![CDATA[
+		
+		<h4><h4>Moderkort support:</h4>
+                
+                <ul>
+                	<li>ATX, MICRO-ATX, MINI-ITX</li>
+                </ul>
+                
+		<h4>Kylning:</h4>
+                
+                <ul>
+					<li>Fram: 1x140mm (installerad), 2x 120/140mm</li>
+					<li>Topp: 3x120/140mm</li>
+                    <li>Bak: 1x140mm (installerad), 1x 120/140mm</li>
+					<li>Sida: 1x120/140mm</li>
+					<li>Under: 2x120mm/140</li>
+                </ul>
+                
+		<h4>Vattenkylning - kompatibilitet:</h4>
+                
+                <ul>
+					<li>Fram: 1x120/140/240/280/360mm</li>
+					<li>Topp: 1x120/140/240/280/360/420mm</li>
+					<li>Bak: 1x120/140mm</li>
+                    <li>Under: 120/140/240mm</li>
+                </ul>
+                
+		<h4>Max kompatibilitet:</h4>
+                
+                <ul>
+                	<li>Grafikkort längd (med HDD bur): 310mm</li>
+					<li>Grafikkort längd (utan HDD bur): 440mm</li>
+					<li>CPU-Kylare höjd: 180mm</li>
+                </ul>
+		
+		]]></description>
+		<price>1000</price>
+		<imageurl>
+			<black>imgs/Fractal_Design_Define_R5_Black.jpg</black>
+			<white>imgs/Fractal_Design_Define_R5_White.jpg</white>
+		</imageurl>
+	</chassi>
+	<chassi>
+		<title>NZXT S340 - Midi Tower</title>
+		<description><![CDATA[
+		
+		<h4><h4>Moderkort support:</h4>
+                
+                <ul>
+                	<li>ATX, MICRO-ATX, MINI-ITX</li>
+                </ul>
+                
+		<h4>Kylning:</h4>
+                
+                <ul>
+					<li>Fram: 2x120/140mm</li>
+					<li>Topp: 1x120 (installerad), 1x140mm</li>
+                    <li>Bak: 1x120mm (installerad)</li>
+                </ul>
+                
+		<h4>Vattenkylning - kompatibilitet:</h4>
+                
+                <ul>
+					<li>Fram: 2x140/120mm</li>
+					<li>Bak: 1x120mm</li>
+                </ul>
+                
+		<h4>Max kompatibilitet:</h4>
+                
+                <ul>
+                	<li>Grafikkort längd (med radiator): 334mm</li>
+					<li>Grafikkort längd (utan radiator): 364mm</li>
+					<li>CPU-Kylare höjd: 161mm</li>
+                </ul>
+		
+		]]></description>
+		<price>800</price>
+		<imageurl>
+			<black>imgs/NZXT_S340_Black_Mid.jpg</black>
+			<white>imgs/NZXT_S340_White_Mid.jpg</white>
+		</imageurl>
+	</chassi>
+	<chassi>
+		<title>NZXT Phantom 820 - Full Tower</title>
+		<description><![CDATA[
+		
+		<h4><h4>Moderkort support:</h4>
+                
+                <ul>
+                	<li>E-ATX, XL-ATX, ATX, MICRO-ATX, MINI-ITX</li>
+                </ul>
+                
+		<h4>Kylning:</h4>
+                
+                <ul>
+                	<li>Topp: 2x200mm (En installerad), 2x140mm, 3x120mm</li>
+                    <li>Under: 2x140mm, 2x120mm</li>
+                    <li>Bak: 1x140mm (installerad), 1x120mm justerbar</li>
+                    <li>Sida: 1x200mm (installerad)</li>
+                    <li>Pivot: 1x140mm or 1x120mm insida pivot fläkt</li>
+                </ul>
+                
+		<h4>Vattenkylning - kompatibilitet:</h4>
+                
+                <ul>
+                	<li>Topp: 2x140mm, 3x120mm</li>
+                    <li>Bak: 1x140mm, 1x120mm</li>
+                    <li>Under: 2x140mm, 2x120mm</li>
+                    <li>Pivot: 1x140mm, 1x120mm</li>
+                </ul>
+                
+		<h4>Särskilda funktioner:</h4>
+                
+                <ul>
+                	<li>Integrerad HUE LED belysningssystem, SD-kortläsare, 4-kanals 15-watts Fan Digital Controller</li>
+                </ul>
+		
+		]]></description>
+		<price>2400</price>
+		<imageurl>
+			<black>imgs/NZXT_Phantom_820_Black_Big.jpg</black>
+			<white>imgs/NZXT_Phantom_820_White_Big.jpg</white>
+		</imageurl>
+	</chassi>
+</build>

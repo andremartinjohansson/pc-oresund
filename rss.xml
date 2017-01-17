@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Yebo PC Nyheter</title>
+		<link>https://www.fc.lnu.se/~aj223ct/dold/projekt/index.htm</link>
+		<description>Nyheter inom Yebo PC</description>
+		
+		<item>
+			<title>Nytt Moderkort!</title>
+			<link>https://www.fc.lnu.se/~aj223ct/dold/projekt/components.htm</link>
+			<description>Nytt ASUS Moderkort (RAMPAGE V EXTREME) finns tillgängligt hos oss!</description>
+		</item>
+		<item>
+			<title>Nytt Chassi!</title>
+			<link>https://www.fc.lnu.se/~aj223ct/dold/projekt/build.htm</link>
+			<description>Vi har lagt till ett nytt PC chassi (NZXT Phantom 820) som du kan välja när du konfigurerar din PC.</description>
+		</item>
+		<item>
+			<title>PC Ominstallation</title>
+			<link>https://www.fc.lnu.se/~aj223ct/dold/projekt/service/pricelist.htm</link>
+			<description>I vår butik erbjuder vi nu att göra en ominstallation av din dator för 900 kr.</description>
+		</item>
+	</channel>
+</rss>

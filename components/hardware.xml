@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE hardware SYSTEM "hardware.dtd">
+
+<hardware>
+	<component type="motherboard">
+		<title>ASUS B85M-G</title>
+		<shortdescription>Micro-ATX B85 har hög-uthålligt 5X skydd och den nya UEFI BIOS</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+			<li>ASUS 5X Protection: Allsidigt skydd ger bäst kvalitet, pålitlighet och hållbarhet</li>
+			<li>USB 3.0 BOOST (UASP Support): 170% snabbare överföringshastigheter än vanliga USB 3.0</li>
+			<li>Network iControl: Real-time nätverksbandbreddshantering</li>
+			<li>Fan Xpert: Dedikerade CPU och chassi fläktkontroller</li>
+			<li>CrashFree BIOS 3: Återställ skadade BIOS-data från USB-lagringsenhet</li>
+			<li>AI Suite 3: Tillgång till innovativa ASUS funktioner</li>
+		</ul>
+
+		]]></fulldescription>
+		<price>700</price>
+		<image>
+			<url>imgs/motherboard_2.jpg</url>
+		</image>
+	</component>
+	<component type="motherboard">
+		<title>ASUS H81I-PLUS</title>
+		<shortdescription>Prisvärd Mini-ITX med exakt digital power design och supersnabb USB 3.0 överföringshastighet</shortdescription>
+		<fulldescription><![CDATA[
+		
+			<ul>
+				<li>Nya UEFI BIOS och EZ Mode: Vänligare, enklare och mer intuitivt med tillagd info</li>
+				<li>USB 3.0 BOOST (UASP Support): 170% snabbare överföringshastigheter än vanliga USB 3.0</li>
+				<li>Network iControl: Real-time nätverksbandbreddshantering</li>
+				<li>AI Suite 3: Tillgång till innovativa ASUS funktioner</li>
+				<li>EPU: Energieffektivitet</li>
+			</ul>
+		
+		]]></fulldescription>
+		<price>750</price>
+		<image>
+			<url>imgs/motherboard_2.jpg</url>
+		</image>
+	</component>
+	<component type="motherboard">
+		<title>ASUS B85M-GAMER</title>
+		<shortdescription>B85 mATX gaming board med LANGuard, SupremeFX ljud och Gamer's Guardian komponenter och AI Suite 3</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+			<li>Intel® Socket 1150 för nya 4th/4thGeneration Core™ i7/Core™ i5/Core™ i3/Celeron® Processorer</li>
+			<li>Dual DDR3 1600 support</li>
+			<li>Intel Gigabit Ethernet och LANGuard - Snabbare nätverk</li>
+			<li>SupremeFX - Grymt ljud som gör dig en del av spelet</li>
+			<li>Gamer's Guardian – Skydd mot verkliga hot</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>900</price>
+		<image>
+			<url>imgs/motherboard_2.jpg</url>
+		</image>
+	</component>
+	<component type="motherboard">
+		<title>ASUS Z97-P</title>
+		<shortdescription>En budgetvänlig Z97 ATX packad med M.2, klart ljud och varaktigt 5X Skydd för bra prestanda och underhållning</shortdescription>
+		<fulldescription><![CDATA[
+		
+			<ul>
+				<li>Bevisad kvalitet - 5X Protection. 1000+ kompatibla enheter. 7000+ valideringstimmar</li>
+				<li>Snabba upp ditt system med blixtsnabba 10Gb/s M.2</li>
+				<li>Fan Xpert 2+ - Bästa ljudlösa kylning</li>
+				<li>UEFI BIOS med nya EZ Tuning Wizard</li>
+				<li>ASUS HomeCloud - Perfekt för att dela eller hemmabio</li>
+				<li>Uppgradera flexibiliteten för ultimata hastigheten 10 Gbit / s med ASUS USB 3.1-kort</li>
+			</ul>
+		
+		]]></fulldescription>
+		<price>1.000</price>
+		<image>
+			<url>imgs/motherboard_1.jpg</url>
+		</image>
+	</component>
+	<component type="motherboard">
+		<title>ASUS Z97I-PLUS</title>
+		<shortdescription>Högpresterande Z97 mini-ITX har smart layout för ATX kapacitet, med 802.11ac Wi-Fi, snabb M.2 och varaktigt 5X skydd</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+			<li>En ovanligt smart layout för ATX-nivå kapacitet och kompatibilitet</li>
+    		<li>Professionellt konstruerad ljud och Intel Gigabit Ethernet - en spel-vinnande kombination</li>
+    		<li>Snabba upp ditt system med blixtsnabba 10 Gbit / s M.2</li>
+    		<li>ASUS HomeCloud med 802.11ac Wi-Fi - Ha tillgång till din dator på distans och streama multimedieinnehåll var som helst, när som helst</li>
+    		<li>Bevisad kvalitet - 5X Protection. 1000+ kompatibla enheter. 7000+ valideringstimmar</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>1.700</price>
+		<image>
+			<url>imgs/motherboard_2.jpg</url>
+		</image>
+	</component>
+	<component type="motherboard">
+		<title>ASUS X99-PRO</title>
+		<shortdescription>Oöverträffad prestanda, snabb 802.11ac Wi-Fi-anslutning, felfri Crystal Sound 2 ljud och anpassningsbar Turbo App för din grymma X99 bygga.</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+			<li>Patentsökt OC Socket - Kör CPU och DDR4 prestanda utöver alla förväntningar!</li>
+    		<li>5-Way Optimering av Dual Intelligent Processors 5 - Ett klick för överklockning och kylning</li>
+    		<li>Dual 32Gb / s ultra M.2 x4 (på kortet plus PCIE tilläggskort)</li>
+    		<li>Crystal Sound 2 - Felfritt ljud som gör dig en del av spelet</li>
+    		<li>ASUS HomeCloud med 802.11ac Wi-Fi - Ha tillgång till din dator på distans och streama multimedieinnehåll var som helst, när som helst</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>2.000</price>
+		<image>
+			<url>imgs/motherboard_1.jpg</url>
+		</image>
+	</component>
+	<component type="motherboard">
+		<title>ASUS X99-A</title>
+		<shortdescription>Oöverträffad prestanda, felfritt Crystal Sound 2 ljud och anpassningsbar Turbo App för din X99 build.</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+			<li>Patentsökt OC Socket - Kör CPU och DDR4 prestanda utöver alla förväntningar!</li>
+			<li>5-Way Optimering av Dual Intelligent Processors 5 - Ett klick för överklockning och kylning</li>
+			<li>32Gb/s ultrasnabb M.2 x4</li>
+			<li>Crystal Sound 2 - Felfritt ljud som gör dig en del av spelet</li>
+			<li>Total kontroll när som helst, var som helst med fjärrkontroll</li>
+			<li>Uppgradera flexibiliteten för ultimata hastigheten 10 Gbit / s med ASUS USB 3.1-kort</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>2.800</price>
+		<image>
+			<url>imgs/motherboard_1.jpg</url>
+		</image>
+	</component>
+	<component type="motherboard">
+		<title>ASUS RAMPAGE V EXTREME</title>
+		<shortdescription>Ta X99 till det extrema</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+			<li>Intel® Core ™ i7 processorer på LGA 2011-v3 uttag</li>
+    		<li>Intel X99 Express chipset</li>
+    		<li>OC Socket, OC Panel, säker start och försök igen knappar</li>
+    		<li>Extreme Engine Digi+ IV – Primo komponenter för berg stadig ström</li>
+    		<li>DirectCU, X-Socket II, flera värmesensorer och Fan Xpert 3</li>
+    		<li>PCI Express 3.0 x4 M.2, dubbla SATA Express, 3T3R 802.11ac Wi-Fi - oöverträffade anslutningsmöjligheter med supersnabba överföringshastigheter</li>
+    		<li>SupremeFX 2014 Sonic Radar II, Intel Ethernet, Languard, GameFirst III, KeyBot, RAMDisk - Hör mer, få bort lagg, påskynda lastning och kontroll</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>4.800</price>
+		<image>
+			<url>imgs/motherboard_1.jpg</url>
+		</image>
+	</component>
+	<component type="cpu">
+		<title>Intel Core i5-4590</title>
+		<shortdescription>Intel Core i5-4590, 4x3.30GHz (Turbo 3.7GHz), 6MB cache, LGA1150, iGPU HD4600.</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Höj ribban på din PC-upplevelse med rik grafik plus en automatisk explosion av hastighet när du behöver det. Den 4: e generationens Intel® Core ™ i5-processor ger grym prestanda, fantastisk grafik och inbyggd säkerhet för djupare skydd.</p>
+		<p>Intel Core i5-4590, 4x3.30GHz (Turbo 3.7GHz), 6MB cache, LGA1150, iGPU HD4600.</p>
+		
+		]]></fulldescription>
+		<price>1.700</price>
+		<image>
+			<url>imgs/i5.jpg</url>
+		</image>
+	</component>
+	<component type="cpu">
+		<title>Intel Core i5-4690</title>
+		<shortdescription>Intel Core i5-4690, 4x3.50GHz (Turbo 3.9GHz), 6MB cache, LGA1150, iGPU HD4600.</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Höj ribban på din PC-upplevelse med rik grafik plus en automatisk explosion av hastighet när du behöver det. Den 4: e generationens Intel® Core ™ i5-processor ger grym prestanda, fantastisk grafik och inbyggd säkerhet för djupare skydd.</p>
+		<p>Intel Core i5-4690, 4x3.50GHz (Turbo 3.9GHz), 6MB cache, LGA1150, iGPU HD4600.</p>
+		
+		]]></fulldescription>
+		<price>1.800</price>
+		<image>
+			<url>imgs/i5.jpg</url>
+		</image>
+	</component>
+	<component type="cpu">
+		<title>Intel Core i5-4690K </title>
+		<shortdescription>Intel Core i5-4690K, 4x3.50GHz (Turbo 3.9GHz), 6MB cache, LGA1150, iGPU HD4600.</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Höj ribban på din PC-upplevelse med rik grafik plus en automatisk explosion av hastighet när du behöver det. Den 4: e generationens Intel® Core ™ i5-processor ger grym prestanda, fantastisk grafik och inbyggd säkerhet för djupare skydd.</p>
+		<p>Intel Core i5-4690K, 4x3.50GHz (Turbo 3.9GHz), 6MB cache, LGA1150, iGPU HD4600.</p>
+		
+		]]></fulldescription>
+		<price>2.000</price>
+		<image>
+			<url>imgs/i5.jpg</url>
+		</image>
+	</component>
+	<component type="cpu">
+		<title>Intel Core i7-4790</title>
+		<shortdescription>Intel Core i7-4790, 4x3.60GHz (Turbo 4.0GHz), 8MB cache, LGA1150 , HyperThreading, iGPU HD4600.</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Få bästa prestanda för dina mest krävande uppgifter med en 4: e generationens Intel® Core ™ i7-processor. För HD och 3-D, multitasking och multimedia, är den 4: e generationens Intel Core i7-processor perfekt för alla dina mest krävande uppgifter.</p>
+		<p>Enkelt gå igenom ansökningarna med smarta multitasking från Intel® Hyper-Threading Technology. Njut av spänningen i en automatisk explosion av hastighet när du behöver det med Intel® Turbo Boost Technology 2.0. Upplev dina filmer, foton och spel smidigt med en svit av inbyggda visuella förbättringar-ingen extra hårdvara krävs.</p>
+		<p>Intel Core i7-4790, 4x3.60GHz (Turbo 4.0GHz), 8MB cache, LGA1150 , HyperThreading, iGPU HD4600.</p>
+		
+		]]></fulldescription>
+		<price>2.500</price>
+		<image>
+			<url>imgs/i7.jpg</url>
+		</image>
+	</component>
+	<component type="cpu">
+		<title>Intel Core i7-4790K</title>
+		<shortdescription>Intel Core i7-4790K, 4x4.0GHz (Turbo 4.4GHz), 8MB cache, LGA1150 , HyperThreading, iGPU HD4600.</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Få bästa prestanda för dina mest krävande uppgifter med en 4: e generationens Intel® Core ™ i7-processor. För HD och 3-D, multitasking och multimedia, är den 4: e generationens Intel Core i7-processor perfekt för alla dina mest krävande uppgifter.</p>
+		<p>Enkelt gå igenom ansökningarna med smarta multitasking från Intel® Hyper-Threading Technology. Njut av spänningen i en automatisk explosion av hastighet när du behöver det med Intel® Turbo Boost Technology 2.0. Upplev dina filmer, foton och spel smidigt med en svit av inbyggda visuella förbättringar-ingen extra hårdvara krävs.</p>
+		<p>Intel Core i7-4790K, 4x4.0GHz (Turbo 4.4GHz), 8MB cache, LGA1150 , HyperThreading, iGPU HD4600.</p>
+		
+		]]></fulldescription>
+		<price>2.800</price>
+		<image>
+			<url>imgs/i7.jpg</url>
+		</image>
+	</component>
+	<component type="cpu">
+		<title>Intel Core i7-5820K</title>
+		<shortdescription>Intel Core i7-5820K, 6x3.3GHz (Turbo 3.6GHz), 15MB cache, LGA2011-V3 , HyperThreading upp till 12 trådar. Använder Socket 2011-V3 och DDR4 RAM.</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Upplev höga prestanda för allt du gör med en kombination av Intel® Turbo Boost Technology och Intel® Hyper-Threading Technology (Intel® HT Technology), vilket maximerar prestanda för att matcha din workload.</p>
+		<p>Intel Core i7-5820K, 6x3.3GHz (Turbo 3.6GHz), 15MB cache, LGA2011-V3 , HyperThreading upp till 12 trådar. Använder Socket 2011-V3 och DDR4 RAM.</p>
+		
+		]]></fulldescription>
+		<price>3.200</price>
+		<image>
+			<url>imgs/i7.jpg</url>
+		</image>
+	</component>
+	<component type="cpu">
+		<title>Intel Core i7-5960X</title>
+		<shortdescription>Intel Core i7-5960X, 8x3.0GHz (Turbo 3.5GHz), 20MB cache, LGA2011-V3 , HyperThreading upp till 16 trådar. Använder Socket 2011-V3 och DDR4 RAM.</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Upplev höga prestanda för allt du gör med en kombination av Intel® Turbo Boost Technology och Intel® Hyper-Threading Technology (Intel® HT Technology), vilket maximerar prestanda för att matcha din workload.</p>
+		<p>Intel Core i7-5960X, 8x3.0GHz (Turbo 3.5GHz), 20MB cache, LGA2011-V3 , HyperThreading upp till 16 trådar. Använder Socket 2011-V3 och DDR4 RAM.</p>
+		
+		]]></fulldescription>
+		<price>8.700</price>
+		<image>
+			<url>imgs/i7.jpg</url>
+		</image>
+	</component>
+	<component type="gpu">
+		<title>ASUS GeForce GTX750TI</title>
+		<shortdescription>ASUS GeForce® GTX 750 TI performance graphics</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+    		<li>Dubbla fläktar ökar termisk verkningsgrad med 2X större luftflöde och 3X lägre buller.</li>
+    		<li>Premium legeringar håller värme för kort som körs 15% snabbare och håller 2,5 gånger längre än referenskort.</li>
+    		<li>1150 MHZ engine clock for bättre prestanda och enastående spelupplevelse</li>
+    		<li>GPU Tweak hjälper dig ändra klockfrekvenser, spänningar, fläkt prestanda och mer.</li>
+    		<li>GPU Tweak Streaming låter dig visa vad som är på din skärm i realtid - så andra kan titta när du spelar live.</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>1.200</price>
+		<image>
+			<url>imgs/750ti.jpg</url>
+		</image>
+	</component>
+	<component type="gpu">
+		<title>ASUS GeForce GTX960 2GB STRIX OC</title>
+		<shortdescription>ASUS Strix GeForce GTX 960 med fabriköverklockad kärna get svalare och tystare spelupplevelser</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+    		<li>1291MHz overklockad GPU</li>
+    		<li>1317MHz GPU boost clock i OC mode</li>
+    		<li>DirectCU med 0dB fläktteknik kan du njuta av lättare spel i total tystnad, och hardcore gaming 30% kyligare med 3X-tystare prestanda!</li>
+    		<li>Premium legeringar håller värme för kort som körs 15% snabbare och håller 2,5 gånger längre än referenskort.</li>
+    		<li>GPU Tweak hjälper dig ändra klockfrekvenser, spänningar, fläkt prestanda och mer.</li>
+    		<li>GPU Tweak with XSplit Gamecaster: Öka din GPU clock speed i realtid, och streama ditt spel direkt till andra</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>1.800</price>
+		<image>
+			<url>imgs/960.jpg</url>
+		</image>
+	</component>
+	<component type="gpu">
+		<title>ASUS GeForce GTX960 4GB STRIX OC</title>
+		<shortdescription>ASUS Strix GeForce GTX 960 med fabriköverklockad kärna get svalare och tystare spelupplevelser</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+    		<li>1291MHz overklockad GPU</li>
+    		<li>1317MHz GPU boost clock i OC mode</li>
+    		<li>DirectCU med 0dB fläktteknik kan du njuta av lättare spel i total tystnad, och hardcore gaming 30% kyligare med 3X-tystare prestanda!</li>
+    		<li>Premium alloys håller värme för kort som körs 15% snabbare och håller 2,5 gånger längre än referenskort.</li>
+    		<li>GPU Tweak hjälper dig ändra klockfrekvenser, spänningar, fläkt prestanda och mer.</li>
+    		<li>GPU Tweak with XSplit Gamecaster: Öka din GPU clock speed i realtid, och streama ditt spel direkt till andra</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>2.000</price>
+		<image>
+			<url>imgs/960.jpg</url>
+		</image>
+	</component>
+	<component type="gpu">
+		<title>ASUS GeForce GTX970 4GB TurboOC</title>
+		<shortdescription>ASUS Turbo GeForce® GTX 970 ger dig en sweet spot mellan grafik och prestanda</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+    		<li>1228 MHz engine clock för bättre prestanda och enastående spelupplevelser</li>
+    		<li>Dual-intake fläktdesign med 10% mindre förlustområde, vilket ger 10% svalare och betydligt tystare prestanda</li>
+    		<li>Dual-ball fläkten går smidigare genom att minska friktionen, vilket ytterligare ger 4X längre livslängd och kylning effektivitet.</li>
+    		<li>Super Alloy Power ökar prestanda genom att minska effektförlust, öka hållbarhet och uppnå svalare drift.</li>
+    		<li>GPU Tweak with XSplit Gamecaster: Öka din GPU clock speed i realtid, och streama ditt spel direkt till andra</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>2.700</price>
+		<image>
+			<url>imgs/970.jpg</url>
+		</image>
+	</component>
+	<component type="gpu">
+		<title>ASUS GeForce GTX970 4GB OC Black Edition</title>
+		<shortdescription>ASUS GeForce® GTX 970 DirectCU II grafikkort, överklockad för snabbare och smidigare HD gaming</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+    		<li>1253MHz engine clock för bättre prestanda och enastående spelupplevelser</li>
+    		<li>DirectCU II uppnår 20% lägre temps med 220% av förlustområdet, plus 3X tystare än referenskort.</li>
+    		<li>Exklusiv Cooltech Fan driver bredare luftflöde för att hålla kritiska komponenter svalna.</li>
+    		<li>DIGI + VRM med 10-fas Super Alloy Power levererar exakt digital kraft för överlägsen effektivitet, pålitlighet och prestanda.</li>
+    		<li>GPU Tweak hjälper dig ändra klockfrekvenser, spänningar, fläkt prestanda och mer.</li>
+    		<li>GPU Tweak Streaming låter dig visa vad som är på din skärm i realtid - så andra kan titta när du spelar live.</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>2.800</price>
+		<image>
+			<url>imgs/970.jpg</url>
+		</image>
+	</component>
+	<component type="gpu">
+		<title>ASUS GeForce GTX970 4GB Mini OC</title>
+		<shortdescription>ASUS GeForce® GTX 970 OC Mini litet gaming grafikkort</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+    		<li>1228 MHz engine clock för bättre prestanda och enastående spelupplevelser</li>
+    		<li>DirectCU Mini ger 20% svalare och mycket tystare prestanda</li>
+    		<li>DirectCU Mini är bara 17cm i längden –vilket gör det perfekt för kompakta gaming PCs</li>
+    		<li>Premium alloys håller värme för kort som körs 15% snabbare och håller 2,5 gånger längre än referenskort.</li>
+    		<li>GPU Tweak hjälper dig ändra klockfrekvenser, spänningar, fläkt prestanda och mer.</li>
+    		<li>GPU Tweak Streaming låter dig visa vad som är på din skärm i realtid - så andra kan titta när du spelar live.</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>2.850</price>
+		<image>
+			<url>imgs/970.jpg</url>
+		</image>
+	</component>
+	<component type="gpu">
+		<title>ASUS GeForce GTX980 4GB STRIX</title>
+		<shortdescription>ASUS Strix GeForce GTX 980 med överklockad kärna ger svalare och tystare spelupplevelser</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+    		<li>1279 MHz Boost clock för bättre prestanda och enastående spelupplevelser.</li>
+    		<li>DirectCU med 0dB fläktteknik kan du njuta av lättare spel i total tystnad, och hardcore gaming 30% kyligare med 3X-tystare prestanda!</li>
+    		<li>DIGI + VRM med 10-fas Super Alloy Power levererar exakt digital kraft för överlägsen effektivitet, pålitlighet och prestanda.</li>
+    		<li>GPU Tweak hjälper dig ändra klockfrekvenser, spänningar, fläkt prestanda och mer.</li>
+    		<li>GPU Tweak Streaming låter dig visa vad som är på din skärm i realtid - så andra kan titta när du spelar live.</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>4.800</price>
+		<image>
+			<url>imgs/980.jpg</url>
+		</image>
+	</component>
+	<component type="gpu">
+		<title>ASUS GeForce GTX Titan X 12GB</title>
+		<shortdescription>ASUS GTX TITAN X: The Ultimate Graphics Powerhouse</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+    		<li>GPU Tweak with XSplit Gamecaster: Öka din GPU clock speed i realtid, och streama ditt spel direkt till andra</li>
+    		<li>NVIDIA® G-SYNC ger smidigaste och snabbaste spelupplevelsen</li>
+    		<li>Gigantic 12GB GDDR5 minne för den bästa upplösning och spelupplevelse</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>9.500</price>
+		<image>
+			<url>imgs/titan.jpg</url>
+		</image>
+	</component>
+	<component type="ram">
+		<title>Kingston DDR3-1600 8GB</title>
+		<shortdescription>1x8GB DDR3, 1600MHz, non-ECC, CL11, 1.5V, Unbuffered, DIMM</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Alla Kingston minnesmoduler måste prestera ordentligt för att säkerställa maximal prestanda. Därför har Kingston utvecklat ett branschledande kvalitetsprocess för att säkerställa att Kingston minne ger överlägsen kvalitet, prestanda och 100% kompatibilitet med datorsystemet modulen är konstruerad för.</p>
+		<p>1x8GB DDR3, 1600MHz, non-ECC, CL11, 1.5V, Unbuffered, DIMM, 240-pin</p>
+		
+		]]></fulldescription>
+		<price>550</price>
+		<image>
+			<url>imgs/ram.jpg</url>
+		</image>
+	</component>
+	<component type="ram">
+		<title>Kingston DDR3-1600 8GB SODIMM</title>
+		<shortdescription>1x8GB DDR3, 1600MHz, non-ECC, CL11, 1.35V, Unbuffered, SO-DIMM, 204-pin</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Alla Kingston minnesmoduler måste prestera ordentligt för att säkerställa maximal prestanda. Därför har Kingston utvecklat ett branschledande kvalitetsprocess för att säkerställa att Kingston minne ger överlägsen kvalitet, prestanda och 100% kompatibilitet med datorsystemet modulen är konstruerad för.</p>
+		<p>1x8GB DDR3, 1600MHz, non-ECC, CL11, 1.35V, Unbuffered, SO-DIMM, 204-pin</p>
+		
+		]]></fulldescription>
+		<price>550</price>
+		<image>
+			<url>imgs/ram.jpg</url>
+		</image>
+	</component>
+	<component type="ram">
+		<title>Kingston DDR3-1866 8GB HyperX Fury</title>
+		<shortdescription>1x8GB DDR3, 1866MHz, CL10, 1.5V, Unbuffered, DIMM, 240-pin</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Alla Kingston minnesmoduler måste prestera ordentligt för att säkerställa maximal prestanda. Därför har Kingston utvecklat ett branschledande kvalitetsprocess för att säkerställa att Kingston minne ger överlägsen kvalitet, prestanda och 100% kompatibilitet med datorsystemet modulen är konstruerad för.</p>
+		<p>1x8GB DDR3, 1866MHz, CL10, 1.5V, Unbuffered, DIMM, 240-pin</p>
+		
+		]]></fulldescription>
+		<price>575</price>
+		<image>
+			<url>imgs/ram.jpg</url>
+		</image>
+	</component>
+	<component type="ram">
+		<title>Kingston DDR3-2133 8GB HyperX Beast XMP</title>
+		<shortdescription>1x8GB DDR3, 2133MHz, CL11, 1.6V, Unbuffered, DIMM, 240-pin</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Alla Kingston minnesmoduler måste prestera ordentligt för att säkerställa maximal prestanda. Därför har Kingston utvecklat ett branschledande kvalitetsprocess för att säkerställa att Kingston minne ger överlägsen kvalitet, prestanda och 100% kompatibilitet med datorsystemet modulen är konstruerad för.</p>
+		<p>1x8GB DDR3, 2133MHz, CL11, 1.6V, Unbuffered, DIMM, 240-pin</p>
+		
+		]]></fulldescription>
+		<price>600</price>
+		<image>
+			<url>imgs/ram.jpg</url>
+		</image>
+	</component>
+	<component type="ram">
+		<title>Kingston DDR4-2133 8GB</title>
+		<shortdescription>1x8GB DDR4, 2133MHz, non-ECC, CL15, 1.2V, Unbuffered, DIMM, 288-pin</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Alla Kingston minnesmoduler måste prestera ordentligt för att säkerställa maximal prestanda. Därför har Kingston utvecklat ett branschledande kvalitetsprocess för att säkerställa att Kingston minne ger överlägsen kvalitet, prestanda och 100% kompatibilitet med datorsystemet modulen är konstruerad för.</p>
+		<p>1x8GB DDR4, 2133MHz, non-ECC, CL15, 1.2V, Unbuffered, DIMM, 288-pin</p>
+		
+		]]></fulldescription>
+		<price>800</price>
+		<image>
+			<url>imgs/ram.jpg</url>
+		</image>
+	</component>
+	<component type="ram">
+		<title>Kingston DDR3-1600 16GB ECC</title>
+		<shortdescription>1x16GB DDR3, 1600MHz, non-ECC, CL11, 1.5V, DIMM, 240-pin</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Alla Kingston minnesmoduler måste prestera ordentligt för att säkerställa maximal prestanda. Därför har Kingston utvecklat ett branschledande kvalitetsprocess för att säkerställa att Kingston minne ger överlägsen kvalitet, prestanda och 100% kompatibilitet med datorsystemet modulen är konstruerad för.</p>
+		<p>1x16GB DDR3, 1600MHz, ECC, CL11, 1.5V, Registered, DIMM, 240-pin</p>
+		
+		]]></fulldescription>
+		<price>1.000</price>
+		<image>
+			<url>imgs/ram.jpg</url>
+		</image>
+	</component>
+	<component type="ram">
+		<title>Kingston DDR4-2133 16GB ECC</title>
+		<shortdescription>1x16GB DDR4, 2133MHz, ECC, CL15, 1.2V, Registered, DIMM, 240-pin</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Alla Kingston minnesmoduler måste prestera ordentligt för att säkerställa maximal prestanda. Därför har Kingston utvecklat ett branschledande kvalitetsprocess för att säkerställa att Kingston minne ger överlägsen kvalitet, prestanda och 100% kompatibilitet med datorsystemet modulen är konstruerad för.</p>
+		<p>1x16GB DDR4, 2133MHz, ECC, CL15, 1.2V, Registered, DIMM, 240-pin</p>
+		
+		]]></fulldescription>
+		<price>1.700</price>
+		<image>
+			<url>imgs/ram.jpg</url>
+		</image>
+	</component>
+	<component type="harddrive">
+		<title>Western Digital 3.5" 500GB Black</title>
+		<shortdescription>SATA 6Gb/s (SATA 3.0), 64MB Cache, 7200RPM, 3.5", Dual processor</shortdescription>
+		<fulldescription><![CDATA[<p>SATA 6Gb/s (SATA 3.0), 64MB Cache, 7200RPM, 3.5", Dual processor</p>]]></fulldescription>
+		<price>600</price>
+		<image>
+			<url>imgs/hdd.jpg</url>
+		</image>
+	</component>
+	<component type="harddrive">
+		<title>Western Digital 3.5" 1TB Black</title>
+		<shortdescription>SATA 6Gb/s (SATA 3.0), 64MB Cache, 7200RPM, 3.5", Dual processor</shortdescription>
+		<fulldescription><![CDATA[<p>SATA 6Gb/s (SATA 3.0), 64MB Cache, 7200RPM, 3.5", Dual processor</p>]]></fulldescription>
+		<price>800</price>
+		<image>
+			<url>imgs/hdd.jpg</url>
+		</image>
+	</component>
+	<component type="harddrive">
+		<title>Western Digital 3.5" 3TB Green</title>
+		<shortdescription>SATA 6Gb/s, (SATA 3.0), RPM = IntelliPower, 64MB Cache, 3.5"</shortdescription>
+		<fulldescription><![CDATA[<p>SATA 6Gb/s, (SATA 3.0), RPM = IntelliPower, 64MB Cache, 3.5"</p>]]></fulldescription>
+		<price>1.200</price>
+		<image>
+			<url>imgs/hdd.jpg</url>
+		</image>
+	</component>
+	<component type="harddrive">
+		<title>Western Digital 3.5" 6TB Green</title>
+		<shortdescription>SATA 6Gb/s, (SATA 3.0), RPM = IntelliPower, 64MB Cache, 3.5"</shortdescription>
+		<fulldescription><![CDATA[<p>SATA 6Gb/s, (SATA 3.0), RPM = IntelliPower, 64MB Cache, 3.5"</p>]]></fulldescription>
+		<price>2.000</price>
+		<image>
+			<url>imgs/hdd.jpg</url>
+		</image>
+	</component>
+	<component type="harddrive">
+		<title>Samsung 2.5" 850 EVO 120GB</title>
+		<shortdescription>SATA6.0Gbps, 3d V-nand 32 layer, MEX ctrl, 540/520 mb/s R/W</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>SATA6.0Gbps, 3d V-nand 32 layer, MEX ctrl, 540/520 mb/s R/W</p>
+		<p>Uppnå bästa läs/skrivprestanda för att maximera din dagliga datoranvändning med Samsungs TurboWrite teknik. Jämfört med 840 EVO, visar 850 EVO en ökad totala användarupplevelse på cirka 13% *, delvis tack vare de nu 2x snabbare slumpskrivhastigheter ** 850 EVO levererar förstklassig prestanda i sin klass, med sekventiell läs/skrivhastigheter på 540MB / s och 520 mb / s resp.</p>
+		
+		]]></fulldescription>
+		<price>750</price>
+		<image>
+			<url>imgs/ssd.jpg</url>
+		</image>
+	</component>
+	<component type="harddrive">
+		<title>Samsung 2.5" 850 EVO 250GB</title>
+		<shortdescription>SATA6.0Gbps, 3d V-nand 32 layer, MEX ctrl, 540/520 mb/s R/W</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>SATA6.0Gbps, 3d V-nand 32 layer, MEX ctrl, 540/520 mb/s R/W</p>
+		<p>Uppnå bästa läs/skrivprestanda för att maximera din dagliga datoranvändning med Samsungs TurboWrite teknik. Jämfört med 840 EVO, visar 850 EVO en ökad totala användarupplevelse på cirka 13% *, delvis tack vare de nu 2x snabbare slumpskrivhastigheter ** 850 EVO levererar förstklassig prestanda i sin klass, med sekventiell läs/skrivhastigheter på 540MB / s och 520 mb / s resp.</p>
+		
+		]]></fulldescription>
+		<price>1.100</price>
+		<image>
+			<url>imgs/ssd.jpg</url>
+		</image>
+	</component>
+	<component type="harddrive">
+		<title>Samsung 2.5" 850 EVO 500GB</title>
+		<shortdescription>SATA6.0Gbps, 3d V-nand 32 layer, MEX ctrl, 540/520 mb/s R/W</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>SATA6.0Gbps, 3d V-nand 32 layer, MEX ctrl, 540/520 mb/s R/W</p>
+		<p>Uppnå bästa läs/skrivprestanda för att maximera din dagliga datoranvändning med Samsungs TurboWrite teknik. Jämfört med 840 EVO, visar 850 EVO en ökad totala användarupplevelse på cirka 13% *, delvis tack vare de nu 2x snabbare slumpskrivhastigheter ** 850 EVO levererar förstklassig prestanda i sin klass, med sekventiell läs/skrivhastigheter på 540MB / s och 520 mb / s resp.</p>
+		
+		]]></fulldescription>
+		<price>1.800</price>
+		<image>
+			<url>imgs/ssd.jpg</url>
+		</image>
+	</component>
+	<component type="harddrive">
+		<title>Samsung 2.5" 850 EVO 1TB</title>
+		<shortdescription>SATA6.0Gbps, 3d V-nand 32 layer, MEX ctrl, 540/520 mb/s R/W</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>SATA6.0Gbps, 3d V-nand 32 layer, MEX ctrl, 540/520 mb/s R/W</p>
+		<p>Uppnå bästa läs/skrivprestanda för att maximera din dagliga datoranvändning med Samsungs TurboWrite teknik. Jämfört med 840 EVO, visar 850 EVO en ökad totala användarupplevelse på cirka 13% *, delvis tack vare de nu 2x snabbare slumpskrivhastigheter ** 850 EVO levererar förstklassig prestanda i sin klass, med sekventiell läs/skrivhastigheter på 540MB / s och 520 mb / s resp.</p>
+		
+		]]></fulldescription>
+		<price>4.000</price>
+		<image>
+			<url>imgs/ssd.jpg</url>
+		</image>
+	</component>
+	<component type="psu">
+		<title>Corsair CX500M 500W (80+ Bronze)</title>
+		<shortdescription>ATX 12V V2.3, 80 Plus Bronze, Modular, 2x 6+2pin PCIe, 5x SATA, 4x Molex</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>CX-serien nätaggregat är ett utmärkt val för bassystem och uppgraderingar för stationära PCs. De erbjuder hög pålitlighet, låg ljudnivå och flexibilitet med modulära kablar.</p>
+		<p>ATX 12V V2.3, 80 Plus Bronze, Modular, 2x 6+2pin PCIe, 5x SATA, 4x Molex</p>
+		
+		]]></fulldescription>
+		<price>700</price>
+		<image>
+			<url>imgs/power_supply_1.jpg</url>
+		</image>
+	</component>
+	<component type="psu">
+		<title>Corsair CX750 750W (80+ Bronze)</title>
+		<shortdescription>ATX 12V V2.3, 80 Plus Bronze, Modular, 4x 6+2pin PCIe, 8x SATA, 6x Molex</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>CX-serien nätaggregat är ett utmärkt val för bassystem och uppgraderingar för stationära PCs. De erbjuder hög pålitlighet, låg ljudnivå och flexibilitet med modulära kablar.</p>
+		<p>ATX 12V V2.3, 80 Plus Bronze, Modular, 4x 6+2pin PCIe, 8x SATA, 6x Molex</p>
+		
+		]]></fulldescription>
+		<price>900</price>
+		<image>
+			<url>imgs/power_supply_1.jpg</url>
+		</image>
+	</component>
+	<component type="psu">
+		<title>Corsair RM550 550W (80+ Gold)</title>
+		<shortdescription>ATX 12V V2.4, 80 Plus Gold, Modular, 2x 6+2-pin PCIe, 6x SATA, 4x Molex, 1x FD</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Corsair RM550 är helt modular och optimerad för tystnad och hög effektivitet. Den är byggd med låg-brus kondensatorer och transformatorer och Zero RPM Fan Mode ser till att fläkten inte ens snurrar tills strömförsörjningen är hög. Och med en fläkt som är custom-designed för låg ljudnivå, är det tyst som en viskning även när det är under stress.</p>
+		<p>ATX 12V V2.4, 80 Plus Gold, Modular, 2x 6+2-pin PCIe, 6x SATA, 4x Molex, 1x FD</p>
+		
+		]]></fulldescription>
+		<price>1.000</price>
+		<image>
+			<url>imgs/power_supply_2.jpg</url>
+		</image>
+	</component>
+	<component type="psu">
+		<title>EVGA SuperNOVA 750-G2 750W (80+ Gold)</title>
+		<shortdescription>ATX 12V V2.4, 80 Plus Gold, Modular, 4x 6+2pin PCIe, 9x SATA, 4x Molex, 1x FD</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>EVGA SuperNOVA 750 G2, baserat på den prisbelönta G2 serien nätaggregat från EVGA, är 80 PLUS Gold rankad och ger ren, kontinuerlig ström till varje komponent. Den nya ECO Thermaö Control Fan System erbjuder fläktlägen att ge noll fläktljud under låg belastning. Detta ger förbättrad effektivitet för längre drift, lägre energiförbrukning, minskade energikostnader och minimal värmeavledning. </p>
+		<p>ATX 12V V2.4, 80 Plus Gold, Modular, 4x 6+2pin PCIe, 9x SATA, 4x Molex, 1x FD</p>
+		
+		]]></fulldescription>
+		<price>1.100</price>
+		<image>
+			<url>imgs/power_supply_3.jpg</url>
+		</image>
+	</component>
+	<component type="psu">
+		<title>Corsair HX750i 750W (80+ Platinum)</title>
+		<shortdescription>ATX 12V V2.4, 80 Plus Platinum, Modular, 6x 6+2-pin PCIe, 12x SATA, 8x Molex</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>HXi serien nätaggregat ger dig extremt stram spänningsreglering, nästan ljudlös drift och ett fullt modulärt kabel set. Med alla japanska 105 ° C kondensatorer, de är ett utmärkt val för högpresterande datorer där pålitlighet är viktigt. 80 PLUS Platinum effektivitet minskar driftskostnaderna och överskottsvärme, och tillsammans med Zero RPM Fan Mode teknik, får du nästan ljudlös drift.</p>
+		<p>ATX 12V V2.4, 80 Plus Platinum, Modular, 6x 6+2-pin PCIe, 12x SATA, 8x Molex</p>
+		
+		]]></fulldescription>
+		<price>1.700</price>
+		<image>
+			<url>imgs/power_supply_3.jpg</url>
+		</image>
+	</component>
+	<component type="psu">
+		<title>EVGA SuperNOVA 1000-G2 1000W (80+ Gold)</title>
+		<shortdescription>ATX 12V V2.4, 80 Plus Gold, Modular, 6x 6+2pin PCIe, 10x SATA, 5x Molex, 1x FD</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>Den EVGA SuperNOVA 1000 G2  nätaggregat är 80 Plus Gold rankad och erbjuder 1000W kontinuerlig effekt, enastående effektivitet och är helt modular. Designad med entusiastens behov i åtanke, EVGA SuperNOVA 1000 G2 nätaggregat är det bästa valet för att driva denna och nästa generations entusiastdatorer. Ta ditt system till nästa nivå och uppstart med EVGA SuperNOVA 1000 G2!</p>
+		<p>ATX 12V V2.4, 80 Plus Gold, Modular, 6x 6+2pin PCIe, 10x SATA, 5x Molex, 1x FD</p>
+		
+		]]></fulldescription>
+		<price>1.800</price>
+		<image>
+			<url>imgs/power_supply_4.jpg</url>
+		</image>
+	</component>
+	<component type="psu">
+		<title>Corsair HX1000i 1000W (80+ Platinum)</title>
+		<shortdescription>ATX 12V V2.4, 80 Plus Platinum, Modular, 8x 6+2-pin PCIe, 12x SATA, 12x Molex</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<p>HXi serien nätaggregat ger dig extremt stram spänningsreglering, nästan ljudlös drift och ett fullt modulärt kabel set. Med alla japanska 105 ° C kondensatorer, de är ett utmärkt val för högpresterande datorer där pålitlighet är viktigt. 80 PLUS Platinum effektivitet minskar driftskostnaderna och överskottsvärme, och tillsammans med Zero RPM Fan Mode teknik, får du nästan ljudlös drift.</p>
+		<p>ATX 12V V2.4, 80 Plus Platinum, Modular, 8x 6+2-pin PCIe, 12x SATA, 12x Molex</p>
+		
+		]]></fulldescription>
+		<price>2.000</price>
+		<image>
+			<url>imgs/power_supply_4.jpg</url>
+		</image>
+	</component>
+	<component type="opticaldrive">
+		<title>ASUS DVD-Läsare och Skrivare</title>
+		<shortdescription>SATA, DVD±R: 24x, DVD+DL: 12x, CD-R: 48x, Power2Go 8, Retail, BLACK</shortdescription>
+		<fulldescription><![CDATA[<p>SATA, DVD±R: 24x, DVD+DL: 12x, CD-R: 48x, Power2Go 8, Retail, BLACK</p>]]></fulldescription>
+		<price>200</price>
+		<image>
+			<url>imgs/optical_drive.jpg</url>
+		</image>
+	</component>
+	<component type="opticaldrive">
+		<title>ASUS Blu-Ray/DVD/CD-Läsare och DVD-Skrivare</title>
+		<shortdescription>SATA, BD-Read: 12x, DVD±RW: 12x, Power2Go 8, E-Green, Retail</shortdescription>
+		<fulldescription><![CDATA[<p>SATA, BD-Read: 12x, DVD±RW: 12x, Power2Go 8, E-Green, Retail</p>]]></fulldescription>
+		<price>600</price>
+		<image>
+			<url>imgs/optical_drive.jpg</url>
+		</image>
+	</component>
+	<component type="opticaldrive">
+		<title>ASUS Blu-Ray/DVD/CD-Läsare och Blu-Ray/DVD-Skrivare</title>
+		<shortdescription>SATA, BD-R:16x, BD-R DL: 12x, BDXL, DVD±R: 16x, Retail</shortdescription>
+		<fulldescription><![CDATA[<p>SATA, BD-R:16x, BD-R DL: 12x, BDXL, DVD±R: 16x, Retail</p>]]></fulldescription>
+		<price>800</price>
+		<image>
+			<url>imgs/optical_drive.jpg</url>
+		</image>
+	</component>
+	<component type="cpucooler">
+		<title>Cooler Master Seidon 120V v2</title>
+		<shortdescription>120mm Radiator, 775/115x/2011/2011-3/1366, AM2(+)/AM3(+)/FM1/FM2, 16.5~75 CFM</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+    		<li>Fabrik fyllt med kylvätska, sedan förseglats och trycktestats - kräver inget underhåll under många år</li>
+    		<li>Mycket optimerad pump och vattenblock garanterar bästa vattenflödet och systemprestanda.</li>
+    		<li>Specialdesignad 120mm radiator ger överlägsen värmeavledning och passar i nästan alla chassi internt och externt.</li>
+    		<li>120mm Silencio FP fläkt med stark lufttryck ger lägre ljudnivå och bättre prestanda.</li>
+		</ul>
+		
+		<p>120mm Radiator, 775/115x/2011/2011-3/1366, AM2(+)/AM3(+)/FM1/FM2, 16.5~75 CFM</p>
+		
+		]]></fulldescription>
+		<price>500</price>
+		<image>
+			<url>imgs/cpu_cooler.jpg</url>
+		</image>
+	</component>
+	<component type="cpucooler">
+		<title>Cooler Master Nepton 140XL</title>
+		<shortdescription>140mm Radiator, 775/115x/1366/2011/2011-3, AM2(+)/AM3(+)/FM1,FM2, 54~122.5 CFM</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+    		<li>Fabrik fyllt med kylvätska, sedan förseglats och trycktestats - kräver inget underhåll under många år</li>
+    		<li>CM egendesignade pump och vattenblock garanterar bästa vattenflödet och systemprestanda.</li>
+    		<li>Större slangar och kylarstorlek ger överlägsen värmeavledning prestanda.</li>
+    		<li>Exklusivt JetFlo 140 fläkt program för att säkerställa bästa radiatorvärme förändring effektivitet.</li>
+    		<li>Unik LED-optik på vattenblock</li>
+		</ul>
+		
+		<p>140mm Radiator, 775/115x/1366/2011/2011-3, AM2(+)/AM3(+)/FM1,FM2, 54~122.5 CFM</p>
+		
+		]]></fulldescription>
+		<price>900</price>
+		<image>
+			<url>imgs/cpu_cooler.jpg</url>
+		</image>
+	</component>
+	<component type="cpucooler">
+		<title>Cooler Master Nepton 240M</title>
+		<shortdescription>240mm Radiator, 775/115x/2011/2011-3/1366, AM2(+)/AM3(+)/FM1,FM2(+), 16.5~76 CFM</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+    		<li>Fabrik fyllt med kylvätska, sedan förseglats och trycktestats - kräver inget underhåll under många år</li>
+    		<li>CM egendesignade pump och vattenblock garanterar bästa vattenflödet och systemprestanda.</li>
+    		<li>Större slangar och kylarstorlek ger överlägsen värmeavledning prestanda.</li>
+    		<li>Exklusiva Dubbla 120mm fläktar för att skingra stora mängder värme genom kylaren.</li>
+    		<li>Unik LED-belysning på vattenblockets lins.</li>
+		</ul>
+		
+		<p>240mm Radiator, 775/115x/2011/2011-3/1366, AM2(+)/AM3(+)/FM1,FM2(+), 16.5~76 CFM</p>
+		
+		]]></fulldescription>
+		<price>1.000</price>
+		<image>
+			<url>imgs/cpu_cooler.jpg</url>
+		</image>
+	</component>
+	<component type="cpucooler">
+		<title>Cooler Master Nepton 280L</title>
+		<shortdescription>280mm Radiator, 775/115x/2011/2011-3/1366, AM2(+)/AM3(+)/FM1,FM2, 54~122.5 CFM</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+    		<li>Fabrik fyllt med kylvätska, sedan förseglats och trycktestats - kräver inget underhåll under många år</li>
+    		<li>CM egendesignade pump och vattenblock garanterar bästa vattenflödet och systemprestanda.</li>
+    		<li>Större slangar och kylarstorlek ger överlägsen värmeavledning prestanda.</li>
+    		<li>Exklusiva Dubbla JetFlo 140mm fläktar för att skingra stora mängder värme genom kylaren.</li>
+    		<li>Unik LED-belysning på vattenblockets lins.</li>
+		</ul>
+		
+		<p>280mm Radiator, 775/115x/2011/2011-3/1366, AM2(+)/AM3(+)/FM1,FM2, 54~122.5 CFM</p>
+		
+		]]></fulldescription>
+		<price>1.100</price>
+		<image>
+			<url>imgs/cpu_cooler.jpg</url>
+		</image>
+	</component>
+	<component type="soundcard">
+		<title>ASUS Xonar DGX 5.1</title>
+		<shortdescription>PCI Express 5.1-channel gaming ljudkort</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+			<li>Inbyggd hörlursförstärkare för att driva upp alla ljuddetaljer i spel</li>
+    		<li>3 lägen i hörlursförstärkare för olika användningsscenarier - VOIP, pro-spel, matar</li>
+    		<li>Dolby® Headphone technology för en uppslukande 5.1 surroundupplevelse</li>
+    		<li>ASUS exklusiva GX2.5 spelljud motor för realistiska 3D-ljudeffekter</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>300</price>
+		<image>
+			<url>imgs/soundcard.jpg</url>
+		</image>
+	</component>
+	<component type="soundcard">
+		<title>ASUS Xonar DX 7.1</title>
+		<shortdescription>Dolby Home Theater Technologies och Richest Gaming Audio Effects för bästa PC audio</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+			<li>Powered by complete Dolby Home Theater technologies</li>
+			<li>VocalFX röstbehandlings teknik gör spel och online chat mer levande och attraktiv</li>
+			<li>Levererar ~35 gånger renare ljudkvalitet (116dB SNR) än de flesta moderkort ljud (85dB SNR)</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>500</price>
+		<image>
+			<url>imgs/soundcard.jpg</url>
+		</image>
+	</component>
+	<component type="soundcard">
+		<title>ASUS Xonar Phoebus 7.1 ROG</title>
+		<shortdescription>Kommendera din väg till seger med exklusiva ROG Command teknik</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+    		<li>ROG Command teknik minskar effektivt upp till 50% av omgivningsbuller</li>
+    		<li>Enastående ljudkvalitet för segern med 118 dB SNR tydlighet och en hörlursförstärkare</li>
+    		<li>Control box inom räckhåll för omedelbar volym tuning och headset anslutningar</li>
+    		<li>Sonic Studio ger fullständig kontroll över massor av ljudteknik</li>
+    		<li>Realistisk surround och förbättrat ljud tack vare Dolby® Home Theater V4 och GX 3.0 spelljud motorn</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>750</price>
+		<image>
+			<url>imgs/soundcard.jpg</url>
+		</image>
+	</component>
+	<component type="soundcard">
+		<title>ASUS Xonar D2X 7.1</title>
+		<shortdescription>Överlägset ljudkort för hemmabio och gaming</shortdescription>
+		<fulldescription><![CDATA[
+		
+		<ul>
+			<li>PCI EXPRESS gränssnitt</li>
+			<li>Gaming med DirectSound och EAX support</li>
+			<li>Hi-Fi klass ljudkvalitet med SNR upp till 118 dB</li>
+			<li>Dolby HomeTheater Technologies och DTS Connect</li>
+			<li>Valuable Cakewalk och Ableton Live musikproduktion programvara medföljer</li>
+		</ul>
+		
+		]]></fulldescription>
+		<price>950</price>
+		<image>
+			<url>imgs/soundcard.jpg</url>
+		</image>
+	</component>
+</hardware>

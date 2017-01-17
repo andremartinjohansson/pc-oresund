@@ -1,0 +1,233 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>PC Öresund - Bygg din PC</title>
+	<meta name="description" content="Vi bygger, du spelar">
+	<meta name="keywords" content="PC,gaming,öresund">
+	<meta name="author" content="André Johansson">
+    <link href="style.css" rel="stylesheet" type="text/css" media="all">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <script type="text/javascript" src="script_chassi_select.js"></script>
+    <script type="text/javascript" src="script_save_link.js"></script>
+</head>
+
+<body>
+
+	<header>
+
+		<div id="headercontent">
+        
+        	<div id="toplogo"><img src="imgs/logo.jpg" alt="PC Öresund logga"></div><p id="toptext">Vi bygger, du spelar.</p><div id="topcontact"><p class="number">073 03 975 18</p><p>info@pcoresund.se</p></div>
+    
+    	</div>
+    
+    </header>
+    
+    <nav>
+    
+    	<ul>
+        	<li><a href="index.htm">Butiken</a></li>
+            <li><a href="build.htm" class="current_page">Bygg din PC</a></li>
+            <li><a href="components.htm">Komponenter</a></li>
+            <li><a href="service.htm">Tjänster</a></li>
+            <li><a href="about.htm">Om oss</a></li>
+        </ul>
+    
+    </nav>
+    
+    <div id="content">
+    
+    	<aside id="hours">
+        
+        <p>mån-tors: 10-17<br>fre: 10-16<br>lör: 10-14</p>
+    
+    	</aside>
+        
+        <section id="main-content">
+        
+        	<h1 class="title">Vi bygger din dator</h1>
+        
+        	<p>Välj ett chassi nedan för att börja konfigurera din dator.</p>
+            
+            <div id="build-wrapper">
+            
+            	<form>Tillverkare:<br>
+					<select id="chassi-menu">
+						<option>Alla</option>
+						<option>Cooler Master</option>
+						<option>Fractal Design</option>
+                        <option>NZXT</option>
+					</select>
+				</form>
+                
+                <div id="cooler-master">
+                    
+                    <div class="chassi-item">
+                
+                        <p class="chassi-text"><a href="build/config.htm" onclick="getChassi(0)">Cooler Master Force 500 Svart Mid Tower</a></p>
+                        <a href="build/config.htm" onclick="getChassi(0)"><img src="imgs/CM_Force_500_Mid.jpg" class="chassi-img" alt="Konfigurera Force 500"></a>
+                        <p class="chassi-desc">Fläktar: 1x 120mm Bak. Inget fönster.<br>Moderkort Support: mATX, ATX.</p>
+                        
+                        <p class="chassi-price">450:-</p>
+                    
+                        <a href="build/config.htm" onclick="getChassi(0)"><div class="config-button">
+                    
+                            <p class="button-arrow">></p><p class="button-text">Konfigurera</p>
+                    
+                        </div></a>
+                
+                    </div>
+                    
+                    <div class="chassi-item">
+                
+                        <p class="chassi-text"><a href="build/config.htm" onclick="getChassi(1)">Cooler Master HAF 912 Svart Mid Tower</a></p>
+                        <a href="build/config.htm" onclick="getChassi(1)"><img src="imgs/CM_HAF_912_Mid.jpg" class="chassi-img" alt="Konfigurera HAF 912"></a>
+                        <p class="chassi-desc">Fläktar: 1x 200mm Fram, 1x 200mm Topp, 1x 200mm Bak. Fönster.<br>Moderkort Support: mATX, ATX.</p>
+                    
+                    	<p class="chassi-price">700:-</p>
+                    
+                        <a href="build/config.htm" onclick="getChassi(1)"><div class="config-button">
+                    
+                            <p class="button-arrow">></p><p class="button-text">Konfigurera</p>
+                    
+                        </div></a>
+                
+                    </div>
+                    
+                    <div class="chassi-item">
+                
+                        <p class="chassi-text"><a href="build/config.htm" onclick="getChassi(2)">Cooler Master Storm Scout II Svart/Vit Mid Tower</a></p>
+                        <a href="build/config.htm" onclick="getChassi(2)"><img src="imgs/CM_Storm_Scout_Black_Mid.jpg" class="chassi-img" alt="Konfigurera Storm Scout"></a>
+                        <p class="chassi-desc">Fläktar: 2x 120mm Fram, 1x 120mm Bak. Inget fönster.<br>Moderkort Support: mATX, ATX.</p>
+                    
+                    	<p class="chassi-price">900:-</p>
+                    
+                        <a href="build/config.htm" onclick="getChassi(2)"><div class="config-button">
+                    
+                            <p class="button-arrow">></p><p class="button-text">Konfigurera</p>
+                    
+                        </div></a>
+                
+                    </div>
+                    
+                    <div class="chassi-item">
+                
+                        <p class="chassi-text"><a href="build/config.htm" onclick="getChassi(3)">Cooler Master Storm Trooper Svart/Vit Big Tower</a></p>
+                        <a href="build/config.htm" onclick="getChassi(3)"><img src="imgs/CM_Storm_Trooper_White_Big.jpg" class="chassi-img" alt="Konfigurera Storm Trooper"></a>
+                        <p class="chassi-desc">Fläktar: 2x 120mm Fram, 1x 200mm Topp, 1x 140mm Bak. Fönster.<br>Moderkort Support: M/XL-ATX.</p>
+                    
+                    	<p class="chassi-price">1.200:-</p>
+                    
+                        <a href="build/config.htm" onclick="getChassi(3)"><div class="config-button">
+                    
+                            <p class="button-arrow">></p><p class="button-text">Konfigurera</p>
+                    
+                        </div></a>
+                        
+					</div>
+            
+            	</div>
+                
+                <div id="fractal">
+                    
+                    <div class="chassi-item">
+                
+                        <p class="chassi-text"><a href="build/config.htm" onclick="getChassi(4)">Fractal Design Define R5 Svart/Vit</a></p>
+                        <a href="build/config.htm" onclick="getChassi(4)"><img src="imgs/Fractal_Design_Define_R5_Black.jpg" class="chassi-img" alt="Konfigurera Define R5"></a>
+                        <p class="chassi-desc">Fläktar: 1x 120mm Fram, 1x 120mm Bak. Ljuddämpat. Inget fönster.<br>Moderkort Support: mITX, mATX, ATX.</p>
+                    
+                    	<p class="chassi-price">1.000:-</p>
+                    
+                        <a href="build/config.htm" onclick="getChassi(4)"><div class="config-button">
+                    
+                            <p class="button-arrow">></p><p class="button-text">Konfigurera</p>
+                    
+                        </div></a>
+                
+                    </div>
+                    
+				</div>
+                
+                <div id="nzxt">
+            
+                    <div class="chassi-item">
+                
+                        <p class="chassi-text"><a href="build/config.htm" onclick="getChassi(5)">NZXT S340 Svart/Vit Mid Tower</a></p>
+                        <a href="build/config.htm" onclick="getChassi(5)"><img src="imgs/NZXT_S340_Black_Mid.jpg" class="chassi-img" alt="Konfigurera S340"></a>
+                        <p class="chassi-desc">Fläktar: 1x 120mm Topp, 1x 120mm Bak. Fönster.<br>Moderkort Support: mITX, mATX, ATX.</p>
+                    
+                    	<p class="chassi-price">800:-</p>
+                    
+                        <a href="build/config.htm" onclick="getChassi(5)"><div class="config-button">
+                    
+                            <p class="button-arrow">></p><p class="button-text">Konfigurera</p>
+                    
+                        </div></a>
+                
+                    </div>
+                    
+                    <div class="chassi-item">
+                
+                        <p class="chassi-text"><a href="build/config.htm" onclick="getChassi(6)">NZXT Phantom 820 Svart/Vit Full Tower</a></p>
+                        <a href="build/config.htm" onclick="getChassi(6)"><img src="imgs/NZXT_Phantom_820_White_Big.jpg" class="chassi-img" alt="Konfigurera Phantom 820"></a>
+                        <p class="chassi-desc">Fläktar: 1x 120mm Fram, 1x 120mm Topp, 1x 120mm Sida, 1x 120mm Bak. Inget fönster.<br>Moderkort Support: M/E/XL-ATX.</p>
+                    
+                    	<p class="chassi-price">2.400:-</p>
+                    
+                        <a href="build/config.htm" onclick="getChassi(6)"><div class="config-button">
+                    
+                            <p class="button-arrow">></p><p class="button-text">Konfigurera</p>
+                    
+                        </div></a>
+                
+                    </div>
+                    
+				</div>
+                
+			</div>
+    
+    	</section>
+        
+        <aside id="sidenav">
+        
+        	<ul>
+            	<li><a href="components/hardware.htm" onclick="saveCategory('motherboard')"><div class="menu-item">Moderkort</div></a></li>
+                <li><a href="components/hardware.htm" onclick="saveCategory('cpu')"><div class="menu-item">Processorer</div></a></li>
+                <li><a href="components/hardware.htm" onclick="saveCategory('gpu')"><div class="menu-item">Grafikkort</div></a></li>
+                <li><a href="components/hardware.htm" onclick="saveCategory('ram')"><div class="menu-item">RAM Minne</div></a></li>
+                <li><a href="components/hardware.htm" onclick="saveCategory('harddrive')"><div class="menu-item">Hårddiskar</div></a></li>
+                <li><a href="components/hardware.htm" onclick="saveCategory('psu')"><div class="menu-item">Nätaggregat</div></a></li>
+                <li><a href="components/hardware.htm" onclick="saveCategory('opticaldrive')"><div class="menu-item">Optiska En.</div></a></li>
+                <li><a href="components/hardware.htm" onclick="saveCategory('cpucooler')"><div class="menu-item">CPU Kylare</div></a></li>
+                <li><a href="components/hardware.htm" onclick="saveCategory('soundcard')"><div class="menu-item">Ljudkort</div></a></li>
+            </ul>
+        
+        </aside>
+		
+		<div id="manufacturers"><uL><li><a href="https://www.asus.com/se/" target="_blank">ASUS</a> |</li><li><a href="http://www.coolermaster.com/main/" target="_blank">Cooler Master</a> |</li><li><a href="http://www.corsair.com/se-fi" target="_blank">Corsair</a> |</li><li><a href="http://www.evga.com/default.asp" target="_blank">EVGA</a> |</li><li><a href="http://www.fractal-design.com/" target="_blank">Fractal Design</a> |</li><li><a href="http://www.intel.se/content/www/se/sv/homepage.html" target="_blank">Intel</a> |</li><li><a href="http://www.kingston.com/en/" target="_blank">Kingston</a> |</li><li><a href="http://www.microsoft.com/en-us/windows" target="_blank">Microsoft</a> |</li><li><a href="https://www.nzxt.com/" target="_blank">NZXT</a> |</li><li><a href="http://www.samsung.com/se/home" target="_blank">Samsung</a> |</li><li><a href="http://www.wdc.com/en/" target="_blank">Western Digital</a></li></uL></div>
+    
+    </div>
+    
+    <footer>
+    
+    	<div id="bottomlefttext"><p>PC Öresund<br>Köpmansgatan 19<br>263 38</p></div>
+        
+        <div id="bottommiddletext"><p>måndag-torsdag: 10-17<br>fredag: 10-16<br>lördag: 10-14</p></div>
+        
+        <div id="bottomrighttext"><p>073 03 975 18<br>info@pcoresund.se</p></div>
+		
+		<p id="sitemap-link"><a href="sitemap.htm" onclick="saveLink()">Site Map</a></p>
+        
+        <div id="rss">
+        
+        	<p><a href="rss.xml" target="_blank">RSS - PC Öresund Nyheter</a></p>
+        
+    	</div>
+    
+    </footer>
+	
+	<p id="copyright">Copyright 2015 André Johansson.</p>
+    
+</body>
+</html>

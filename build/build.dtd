@@ -1,0 +1,22 @@
+<!--
+
+build
+	chassi+
+		title (text)
+		description (cdata)
+		price (text)
+		imageurl+
+			black (text)
+			white (text)
+		
+
+-->
+
+	<!ELEMENT build (chassi+)>
+		<!ELEMENT chassi (title, description, price, imageurl+)>
+			<!ELEMENT title (#PCDATA)>
+			<!ELEMENT description (#PCDATA)>
+			<!ELEMENT price (#PCDATA)>
+			<!ELEMENT imageurl (black, white)>
+				<!ELEMENT black (#PCDATA)>
+				<!ELEMENT white (#PCDATA)>
